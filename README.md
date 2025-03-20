@@ -34,7 +34,7 @@ pip install -r requirements.txt
    First, clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Nickkcj/Exercise-Tracker.git
+   git clone https://github.com/Nickkcj/exercise-tracker.git
    ```
 
 2. **Configure Settings**:
